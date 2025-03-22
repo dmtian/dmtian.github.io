@@ -1,10 +1,7 @@
 ---
 title: "Teaching experience 3"
 collection: teaching
-type: "Workshop"
 permalink: /teaching/teaching-1
-venue: 
-date: 2025-01-01
 location: "Hefei, China"
 ---
 
