@@ -3,7 +3,7 @@ title: "Proofs of Retrievability with Public Verifiability from Lattices"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-3-11-paper-title-number-1
-excerpt: 'Miaomiao Tian,Chuang Gao,Long Chen,Hong Zhong,Jie Chen,IEEE Transactions on Information Forensics and Security 2025'
+excerpt: 'Miaomiao Tian, Chuang Gao, Long Chen, Hong Zhong, Jie Chen, IEEE Transactions on Information Forensics and Security 2025'
 date: 2025-3-11
 venue: 'March 11'
 slidesurl:
