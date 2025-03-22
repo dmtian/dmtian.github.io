@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/teaching-1
 venue: 
-date:
+date:2025-01-01
 location: "Hefei, China"
 ---
 
