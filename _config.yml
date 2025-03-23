@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "田苗苗"
+title                    : "Miaomiao Tian"
 title_separator          : "-"
-name                     : &name "Tian Miaomiao"
+name                     : &name "Miaomiao Tian"
 description              : &description "A teacher from Anhui University"
 url                      : https://uso-42.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
