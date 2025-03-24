@@ -11,10 +11,10 @@ main:
   - title: "Publications"
     url: /publications/   
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Service"
+    url: /Service/    
     
-  - title: "介绍"
+  - title: "中文"
     url: /chinese/
   
 
