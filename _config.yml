@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "light"
+site_theme               : "default"
 title                    : "Miaomiao Tian"
 title_separator          : "-"
 name                     : &name "Miaomiao Tian"
