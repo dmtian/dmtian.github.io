@@ -9,6 +9,9 @@
 
 main:
   - title: "Publications"
+    url: /about/ 
+    
+  - title: "Publications"
     url: /publications/   
 
   - title: "Services"
