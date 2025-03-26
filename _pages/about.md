@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I earned my Bachelor of Science degree from Beijing University of Chemical Technology in 2009 and obtained a Doctor of Engineering degree from the University of Science and Technology of China in 2014. Currently serving as an Associate Professor at the School of Computer Science and Technology, Anhui University, and Director of the Institute for Secure Computing. My primary research focuses on post-quantum cryptography and cryptographic applications in cloud computing, big data mining, encrypted traffic detection, and blockchain technologies.  
+I am currently an Associate Professor at the School of Computer Science and Technology, Anhui University. I received my Ph.D. in Computer Science from the University of Science and Technology of China. My research interests include lattice-based cryptography, cloud security, privacy-preserving machine learning, and blockchain.
 # News
 * One paper has been accepted by IEEE TIFS.
-* My personal homepage has been created.
+
