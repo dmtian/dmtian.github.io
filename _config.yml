@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Miaomiao Tian"
   pronouns         : # example: "she/her"  
-  bio              : "                            "
+  bio              : "                            &nbsp;"&nbsp;
   location         : "Hefei, China"
   employer         : # Username
   uri              : # URL
